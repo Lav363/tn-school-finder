@@ -1,0 +1,66 @@
+[
+  {
+    "name": "Chinmaya Vidyalaya",
+    "district": "Coimbatore",
+    "type": "CBSE",
+    "medium": "English",
+    "latitude": 11.006,
+    "longitude": 76.972
+  },
+  {
+    "name": "Modern Hr Sec School",
+    "district": "Chennai",
+    "type": "Matric",
+    "medium": "Tamil",
+    "latitude": 13.0827,
+    "longitude": 80.2707
+  },
+  {
+    "name": "St. Xavier's School",
+    "district": "Chennai",
+    "type": "CBSE",
+    "medium": "English",
+    "latitude": 13.0830,
+    "longitude": 80.2710
+  },
+  {
+    "name": "Bala Vidya Mandir",
+    "district": "Chennai",
+    "type": "Matric",
+    "medium": "Tamil",
+    "latitude": 13.0825,
+    "longitude": 80.2705
+  },
+  {
+    "name": "Kendriya Vidyalaya",
+    "district": "Chennai",
+    "type": "CBSE",
+    "medium": "English",
+    "latitude": 13.0832,
+    "longitude": 80.2712
+  },
+  {
+    "name": "Government Hr Sec School",
+    "district": "Madurai",
+    "type": "State Board",
+    "medium": "Tamil",
+    "latitude": 9.919,
+    "longitude": 78.119
+  },
+  {
+    "name": "Vivekananda School",
+    "district": "Salem",
+    "type": "Matric",
+    "medium": "English",
+    "latitude": 11.6643,
+    "longitude": 78.146
+  },
+  {
+    "name": "St. Joseph's School",
+    "district": "Tirunelveli",
+    "type": "State Board",
+    "medium": "Tamil",
+    "latitude": 8.7139,
+    "longitude": 77.7567
+  }
+]
